@@ -8,13 +8,15 @@
 
 ## Example Code
 
-...
+``` 
 
 <javascript> 
+
   alert('ok'); 
+
 </javascript> 
 
-...
+``` 
 
 ## CREDIT
 sinadalee@gmail.com
