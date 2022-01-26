@@ -10,11 +10,7 @@
 
 ``` 
 
-<javascript> 
-
-  alert('ok'); 
-
-</javascript> 
+print(5555)
 
 ``` 
 
