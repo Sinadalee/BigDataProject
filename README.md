@@ -1,7 +1,16 @@
 # BigDataProject
+โปรเจคเว็บแอพ จัดทำโดย สินะดา
 
 ## Feature
+- fdsfvsdfsv
+- dvxdfvfsbg
+- xdfvfdgbdgbv
 
-## EMAIL
+## Example Code
+print(fgdgghf)
 
-##
+## CREDIT
+sinadalee@gmail.com
+
+## License
+5555555
