@@ -11,7 +11,7 @@
 ...
 
 <javascript> 
-print(fgdgghf)
+  alert('ok'); 
 </javascript> 
 
 ...
