@@ -8,7 +8,9 @@
 
 ## Example Code
 ...
+<javascript> 
 print(fgdgghf)
+</javascript> 
 ...
 
 ## CREDIT
