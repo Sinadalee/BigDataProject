@@ -1,5 +1,5 @@
 # BigDataProject
-โปรเจคเว็บแอพ จัดทำโดย สินะดา
+โปรเจคเว็บแอพ จัดทำโดย [Sinada](https://github.com/plawansaifad) 
 
 ## Feature
 - fdsfvsdfsv
@@ -7,7 +7,9 @@
 - xdfvfdgbdgbv
 
 ## Example Code
+...
 print(fgdgghf)
+...
 
 ## CREDIT
 sinadalee@gmail.com
